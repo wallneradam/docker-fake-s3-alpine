@@ -2,7 +2,7 @@
 Minimal fake S3 Docker image based on Alpine linux
 
 It is a minimal Docker image from the [fake-s3](https://github.com/jubos/fake-s3) project.
-Uses a persistent volume in /opt/fake-s3/data to store persistence data.
+Uses a persistent volume in /opt/fakes3/data to store persistence data.
 
 ## Usage
 
